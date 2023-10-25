@@ -1,0 +1,86 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		7317F4AB2AE95C0B00B78354 /* 1.2.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.2.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7317F4AD2AE95C0B00B78354 /* 1.1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7317F4AE2AE95C0B00B78354 /* 1.3.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.3.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		7317F49E2AE9589900B78354 = {
+			isa = PBXGroup;
+			children = (
+				7317F4AF2AE95C3D00B78354 /* Easy */,
+			);
+			sourceTree = "<group>";
+		};
+		7317F4AF2AE95C3D00B78354 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				7317F4AD2AE95C0B00B78354 /* 1.1.TwoSum.playground */,
+				7317F4AB2AE95C0B00B78354 /* 1.2.TwoSum.playground */,
+				7317F4AE2AE95C0B00B78354 /* 1.3.TwoSum.playground */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		7317F49F2AE9589900B78354 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 7317F4A22AE9589900B78354 /* Build configuration list for PBXProject "SwiftLeetCode" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7317F49E2AE9589900B78354;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		7317F4A32AE9589900B78354 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		7317F4A42AE9589900B78354 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7317F4A22AE9589900B78354 /* Build configuration list for PBXProject "SwiftLeetCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7317F4A32AE9589900B78354 /* Debug */,
+				7317F4A42AE9589900B78354 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7317F49F2AE9589900B78354 /* Project object */;
+}
