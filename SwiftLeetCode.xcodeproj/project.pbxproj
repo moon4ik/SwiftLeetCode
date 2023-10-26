@@ -7,9 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		7317F4AB2AE95C0B00B78354 /* 1.2.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.2.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		7317F4AD2AE95C0B00B78354 /* 1.1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		7317F4AE2AE95C0B00B78354 /* 1.3.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.3.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7317F4AD2AE95C0B00B78354 /* 1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7391B0002AE95FA300D4D28A /* 9.PalindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 9.PalindromeNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -23,9 +22,8 @@
 		7317F4AF2AE95C3D00B78354 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
-				7317F4AD2AE95C0B00B78354 /* 1.1.TwoSum.playground */,
-				7317F4AB2AE95C0B00B78354 /* 1.2.TwoSum.playground */,
-				7317F4AE2AE95C0B00B78354 /* 1.3.TwoSum.playground */,
+				7317F4AD2AE95C0B00B78354 /* 1.TwoSum.playground */,
+				7391B0002AE95FA300D4D28A /* 9.PalindromeNumber.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

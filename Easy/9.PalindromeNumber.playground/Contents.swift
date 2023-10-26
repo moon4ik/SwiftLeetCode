@@ -4,51 +4,31 @@ Follow up: Could you solve it without converting the integer to a string?
  */
 import Foundation
 
-extension String {
-    var length: Int {
-        return count
-    }
-    
-    subscript (i: Int) -> String {
-        return self[i ..< i + 1]
-    }
-    
-    func substring(fromIndex: Int) -> String {
-        return self[min(fromIndex, length) ..< length]
-    }
-    
-    func substring(toIndex: Int) -> String {
-        return self[0 ..< max(0, toIndex)]
-    }
-    
-    subscript (r: Range<Int>) -> String {
-        let range = Range(uncheckedBounds: (lower: max(0, min(length, r.lowerBound)),
-                                            upper: min(length, max(0, r.upperBound))))
-        let start = index(startIndex, offsetBy: range.lowerBound)
-        let end = index(start, offsetBy: range.upperBound - range.lowerBound)
-        return String(self[start ..< end])
-    }
+//MARK: - 1 - 39ms, 14.35Mb
+
+func isPalindrome1(_ x: Int) -> Bool {
+    String(x) == String(String(x).reversed())
 }
 
-func isPalindrome(_ x: Int) -> Bool {
-    guard x > 0 else { return false }
-    let xString = String(x)
-    if xString.length == 1 {
-        return true
+isPalindrome1(121) //true
+isPalindrome1(-121) //false
+isPalindrome1(10) //false
+isPalindrome1(0) //true
+
+//MARK: - 2 - 28ms, 13.84Mb
+
+func isPalindrome2(_ x: Int) -> Bool {
+    if x < 0 || (x != 0 && x % 10 == 0 ) { return false }
+    var half = 0
+    var num = x
+    while num > half {
+        half = (half * 10) + (num % 10)
+        num = num / 10
     }
-    var i: Int = 0
-    var j: Int = xString.length-1
-    for _ in 0..<xString.length {
-        if xString[i] != xString[j] {
-            return false
-        } else {
-            i += 1
-            j -= 1
-        }
-    }
-    return true
+    return num == half || num == half / 10
 }
 
-isPalindrome(121) //true
-isPalindrome(-121) //false
-isPalindrome(10) //false
+isPalindrome2(1234321) //true
+isPalindrome2(-121) //false
+isPalindrome2(10) //false
+isPalindrome2(0) //true
