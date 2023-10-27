@@ -42,6 +42,8 @@
  It is guaranteed that s is a valid roman numeral in the range [1, 3999].
  */
 
+import Foundation
+
 let dic = ["I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000]
 
 //MARK: - 1
@@ -82,3 +84,25 @@ romanToInt2("III")
 romanToInt2("IV")
 romanToInt2("LVIII")
 romanToInt2("MCMXCIV")
+
+//MARK: - 3
+
+func romanToInt3(_ s: String) -> Int {
+    var str: String = s
+    str = str.replacingOccurrences(of: "IV", with: "IIII")
+    str = str.replacingOccurrences(of: "IX", with: "VIIII")
+    str = str.replacingOccurrences(of: "XL", with: "XXXX")
+    str = str.replacingOccurrences(of: "XC", with: "LXXXX")
+    str = str.replacingOccurrences(of: "CD", with: "CCCC")
+    str = str.replacingOccurrences(of: "CM", with: "DCCCC")
+    var sum = 0
+    for i in str {
+        sum += dic[String(i)] ?? 0
+    }
+    return sum
+}
+
+romanToInt3("III")
+romanToInt3("IV")
+romanToInt3("LVIII")
+romanToInt3("MCMXCIV")

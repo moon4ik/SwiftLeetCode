@@ -24,6 +24,8 @@
  Follow up: Could you solve it without converting the integer to a string?
  */
 
+import Foundation
+
 //MARK: - 1
 
 func isPalindrome1(_ x: Int) -> Bool {

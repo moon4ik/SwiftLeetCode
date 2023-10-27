@@ -27,6 +27,8 @@
  Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
  */
 
+import Foundation
+
 //MARK: - 1
 
 func twoSum1(_ nums: [Int], _ target: Int) -> [Int] {
