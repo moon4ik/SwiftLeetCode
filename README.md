@@ -6,3 +6,4 @@ Easy
 - Two sum
 - Palindrome number
 - Roman to Integer
+- Longest Common Prefix
