@@ -10,6 +10,7 @@
 		7313650C2AEAAE38009E5EC3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7313650D2AEAAE9A009E5EC3 /* 13.RomanToInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 13.RomanToInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7313650E2AEBC42A009E5EC3 /* 14.LongestCommonPrefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 14.LongestCommonPrefix.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7313650F2AEBF51A009E5EC3 /* 20.ValidParentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 20.ValidParentheses.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7317F4AD2AE95C0B00B78354 /* 1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7391B0002AE95FA300D4D28A /* 9.PalindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 9.PalindromeNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -30,6 +31,7 @@
 				7391B0002AE95FA300D4D28A /* 9.PalindromeNumber.playground */,
 				7313650D2AEAAE9A009E5EC3 /* 13.RomanToInteger.playground */,
 				7313650E2AEBC42A009E5EC3 /* 14.LongestCommonPrefix.playground */,
+				7313650F2AEBF51A009E5EC3 /* 20.ValidParentheses.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

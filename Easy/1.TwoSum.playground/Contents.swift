@@ -52,7 +52,7 @@ func twoSum2(_ nums: [Int], _ target: Int) -> [Int] {
     var dict = [Int:Int]()
     for (index, value) in nums.enumerated() {
         if let idx = dict[target-value] {
-            return [index,idx]
+            return [index, idx]
         }
         dict[value] = index
     }
@@ -74,7 +74,7 @@ func twoSum3(_ nums: [Int], _ target: Int) -> [Int] {
         if sum == target {
             if let index1 = nums.firstIndex(of: sortedNums[left]),
                let index2 = nums.lastIndex(of: sortedNums[right]) {
-                print("Third: \([index1, index2])")
+                return [index1, index2]
                 break
             }
         } else if sum < target {
