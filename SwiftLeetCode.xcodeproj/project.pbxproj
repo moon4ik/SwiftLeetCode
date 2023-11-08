@@ -17,6 +17,7 @@
 		73525AC82AFB9DAF00ACE8E4 /* 27.RemoveElement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 27.RemoveElement.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73525AC92AFBA50900ACE8E4 /* 28.FindIndexOfFirstOccurrenceInString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 28.FindIndexOfFirstOccurrenceInString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73525ACA2AFBB03600ACE8E4 /* 35.SearchInsertPosition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 35.SearchInsertPosition.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		73525ACB2AFBC15400ACE8E4 /* 58.LengthOfLastWord.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 58.LengthOfLastWord.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7391B0002AE95FA300D4D28A /* 9.PalindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 9.PalindromeNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -42,6 +43,7 @@
 				73525AC82AFB9DAF00ACE8E4 /* 27.RemoveElement.playground */,
 				73525AC92AFBA50900ACE8E4 /* 28.FindIndexOfFirstOccurrenceInString.playground */,
 				73525ACA2AFBB03600ACE8E4 /* 35.SearchInsertPosition.playground */,
+				73525ACB2AFBC15400ACE8E4 /* 58.LengthOfLastWord.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
