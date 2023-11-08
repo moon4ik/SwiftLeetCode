@@ -11,3 +11,4 @@ Easy
 - 21. Merge Two Sorted Lists 
 - 26. Remove Duplicates from Sorted Array
 - 27. Remove Element
+- 28. Find the Index of the First Occurrence in a String
