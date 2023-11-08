@@ -14,6 +14,7 @@
 		731365102AEFCFB5009E5EC3 /* 21.MergeTwoSortedLists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 21.MergeTwoSortedLists.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		731365112AF147F7009E5EC3 /* 26.RemoveDuplicatesFromSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 26.RemoveDuplicatesFromSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7317F4AD2AE95C0B00B78354 /* 1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		73525AC82AFB9DAF00ACE8E4 /* 27.RemoveElement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 27.RemoveElement.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7391B0002AE95FA300D4D28A /* 9.PalindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 9.PalindromeNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -36,6 +37,7 @@
 				7313650F2AEBF51A009E5EC3 /* 20.ValidParentheses.playground */,
 				731365102AEFCFB5009E5EC3 /* 21.MergeTwoSortedLists.playground */,
 				731365112AF147F7009E5EC3 /* 26.RemoveDuplicatesFromSortedArray.playground */,
+				73525AC82AFB9DAF00ACE8E4 /* 27.RemoveElement.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
