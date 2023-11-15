@@ -14,6 +14,7 @@
 		731365102AEFCFB5009E5EC3 /* 21.MergeTwoSortedLists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 21.MergeTwoSortedLists.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		731365112AF147F7009E5EC3 /* 26.RemoveDuplicatesFromSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 26.RemoveDuplicatesFromSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7317F4AD2AE95C0B00B78354 /* 1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		732821982AFE68CB008B23F8 /* 67.AddBinary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 67.AddBinary.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73525AC82AFB9DAF00ACE8E4 /* 27.RemoveElement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 27.RemoveElement.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73525AC92AFBA50900ACE8E4 /* 28.FindIndexOfFirstOccurrenceInString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 28.FindIndexOfFirstOccurrenceInString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73525ACA2AFBB03600ACE8E4 /* 35.SearchInsertPosition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 35.SearchInsertPosition.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -46,6 +47,7 @@
 				73525ACA2AFBB03600ACE8E4 /* 35.SearchInsertPosition.playground */,
 				73525ACB2AFBC15400ACE8E4 /* 58.LengthOfLastWord.playground */,
 				73525ACC2AFBC7BB00ACE8E4 /* 66.PlusOne.playground */,
+				732821982AFE68CB008B23F8 /* 67.AddBinary.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

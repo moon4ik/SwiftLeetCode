@@ -89,4 +89,3 @@ func twoSum3(_ nums: [Int], _ target: Int) -> [Int] {
 twoSum3([2,7,11,15], 9) //0,1
 twoSum3([3,2,4], 6) //1,2
 twoSum3([3,3], 6) //0,1
-
