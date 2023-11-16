@@ -16,3 +16,5 @@ Easy
 - 58. Length of Last Word
 - 66. Plus One
 - 67. Add Binary
+- 69. Sqrt(x)
+- 70. Climbing Stairs

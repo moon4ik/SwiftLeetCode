@@ -21,6 +21,8 @@
 		73525ACB2AFBC15400ACE8E4 /* 58.LengthOfLastWord.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 58.LengthOfLastWord.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73525ACC2AFBC7BB00ACE8E4 /* 66.PlusOne.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 66.PlusOne.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7391B0002AE95FA300D4D28A /* 9.PalindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 9.PalindromeNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		73C68EF62B0509B7008925AC /* 69.SqrtX.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 69.SqrtX.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		73F00AE62B0549870082CB98 /* 70.ClimbingStairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 70.ClimbingStairs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -48,6 +50,8 @@
 				73525ACB2AFBC15400ACE8E4 /* 58.LengthOfLastWord.playground */,
 				73525ACC2AFBC7BB00ACE8E4 /* 66.PlusOne.playground */,
 				732821982AFE68CB008B23F8 /* 67.AddBinary.playground */,
+				73C68EF62B0509B7008925AC /* 69.SqrtX.playground */,
+				73F00AE62B0549870082CB98 /* 70.ClimbingStairs.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
