@@ -19,3 +19,4 @@ Easy
 - 69. Sqrt(x)
 - 70. Climbing Stairs
 - 83. Remove Duplicates from Sorted List
+- 88. Merge Sorted Array
