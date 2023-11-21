@@ -22,6 +22,7 @@
 		73525ACC2AFBC7BB00ACE8E4 /* 66.PlusOne.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 66.PlusOne.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7391B0002AE95FA300D4D28A /* 9.PalindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 9.PalindromeNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73C68EF62B0509B7008925AC /* 69.SqrtX.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 69.SqrtX.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		73E06A6E2B0B9E030049A2F1 /* 94.BinaryTreeInorderTraversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 94.BinaryTreeInorderTraversal.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73F00AE62B0549870082CB98 /* 70.ClimbingStairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 70.ClimbingStairs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73F00AE72B0644180082CB98 /* 83.RemoveDuplicatesFromSortedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 83.RemoveDuplicatesFromSortedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		73F00AE82B066BAA0082CB98 /* 88.MergeSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 88.MergeSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -56,6 +57,7 @@
 				73F00AE62B0549870082CB98 /* 70.ClimbingStairs.playground */,
 				73F00AE72B0644180082CB98 /* 83.RemoveDuplicatesFromSortedList.playground */,
 				73F00AE82B066BAA0082CB98 /* 88.MergeSortedArray.playground */,
+				73E06A6E2B0B9E030049A2F1 /* 94.BinaryTreeInorderTraversal.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

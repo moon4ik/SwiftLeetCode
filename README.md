@@ -20,3 +20,4 @@ Easy
 - 70. Climbing Stairs
 - 83. Remove Duplicates from Sorted List
 - 88. Merge Sorted Array
+- 94. Binary Tree Inorder Traversal
